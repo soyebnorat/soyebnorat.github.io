@@ -172,7 +172,7 @@ header h1
 .bck 
 {
     background-image: url('../img/bn1.jpg');
-    background-size: 100% auto;
+    background-size:cover;
     overflow: hidden;
     background-position:center;
     background-attachment: fixed;
