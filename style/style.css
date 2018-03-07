@@ -175,8 +175,6 @@ header h1
     background-size:cover;
     overflow: hidden;
     background-position:center;
-    background-attachment: fixed;
-    height:100vh;
 }
 @media (max-width: 640px) {
   .bck {
