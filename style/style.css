@@ -177,6 +177,10 @@ header h1
     background-position:center;
     background-attachment: fixed;
 }
+@media (max-width: 640px) {
+  .bck {
+    background-position: 50% 20px, 50% 50%; }
+}
 .p0
 {
     padding: 0;
